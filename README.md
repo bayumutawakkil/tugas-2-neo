@@ -28,6 +28,3 @@ Aplikasi Todo List yang fully interactive dengan fitur penyimpanan data mengguna
 - ES6 JavaScript
 - localStorage API
 - React 18
-
----
-**Dibuat sebagai tugas bootcamp Frontend minggu kedua** 📚
